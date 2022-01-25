@@ -5,5 +5,8 @@
 <hr/>
 <strong>Tecnologias utilizadas - Html5 | Css3 | Javascript | React.js | Bootstrap<br></strong>
 
+ ![Alt text](screen/legging.gif?raw=true "APP")
+
+
 
 
