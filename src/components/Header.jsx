@@ -21,7 +21,7 @@ const Header = () => {
                                 <NavLink className="nav-link" to="/contact">Contato</NavLink>
                             </li>
                         </ul>
-                    <NavLink className="navbar-brand mx-auto fw-bold" to="/"><img src='https://leggingbrasil.vteximg.com.br/arquivos/legging-brasil-logo.png?v=637587543577370000' /></NavLink>
+                    <NavLink className="navbar-brand mx-auto fw-bold" to="/"><img src='https://leggingbrasil.vteximg.com.br/arquivos/legging-brasil-logo.png?v=637587543577370000' alt='...' /></NavLink>
                     <hr />
                     <Login/>
                     <Singup/>
