@@ -1,0 +1,24 @@
+const DATA = [
+    {
+        id: 0,
+        title: "Calça Leggins Estampa Digital Secret",
+        price: 49.90,
+        desc: "A Legging Secret é uma das peças chave da nova coleção ONE, possuí qualidade premium com muita tecnologia, flexibilidade, alta compressão, costura reforçada e cós alto. Essa é a peça ideal para fazer parte da sua rotina de exercícios nas 4 estações do ano. O tecido inteligente da coleção ONE foi desenvolvido pela Legging Brasil para que a compressão, leveza, toque, maciez e transpiração formem um conjunto essencial na hora da perfomance de seus treinos. A coleção ONE trás desenhos criados totalmente exclusivos desenhados para valorizar as curvas no corpo das mulheres. Para quem é o produto? A coleção ONE trouxe a tendência do fashion fitness, para que a sua Legging Brasil possa te acompanhar sempre que precisar, seja, no trabalho, nas saidinhas, na academia, no parque, na zumba, no pilates, nas caminhadas, corridas e pedais.Nossa legging é sua parceira para encarar qualquer desafio; Alta compressão, costura reforçada, tecido super leve e fibras compactas alinhadas a uma modelagem bem desenvolvida, fazem com que nossas Leggings vistam bem no corpo dando uma segurança especial.Desenvolvida com tecnologia em todas as etapas da fabricação, as peças da coleção ONE foram criadas para proporcionar o melhor desempenho em sua performance. Produto 85% Poliéster 15% Elastano.",
+        img: "https://leggingbrasil.vteximg.com.br/arquivos/ids/157029-500-750/LBR-2408-059.jpg?v=637655979443430000"
+    },
+    {
+        id: 1,
+        title: "Calça Legging Estampa Digital Modern Green",
+        price: 49.90,
+        desc: "A Legging Modern Green é uma das peças chave da nova coleção ONE, possuí qualidade premium com muita tecnologia, flexibilidade, alta compressão, costura reforçada e cós alto. Essa é a peça ideal para fazer parte da sua rotina de exercícios nas 4 estações do ano. O tecido inteligente da coleção ONE foi desenvolvido pela Legging Brasil para que a compressão, leveza, toque, maciez e transpiração formem um conjunto essencial na hora da perfomance de seus treinos. A coleção ONE trás desenhos criados totalmente exclusivos desenhados para valorizar as curvas no corpo das mulheres. Para quem é o produto? A coleção ONE trouxe a tendência do fashion fitness, para que a sua Legging Brasil possa te acompanhar sempre que precisar, seja, no trabalho, nas saidinhas, na academia, no parque, na zumba, no pilates, nas caminhadas, corridas e pedais. Nossa legging é sua parceira para encarar qualquer desafio; Alta compressão, costura reforçada, tecido super leve e fibras compactas alinhadas a uma modelagem bem desenvolvida, fazem com que nossas Leggings vistam bem no corpo dando uma segurança especial. Desenvolvida com tecnologia em todas as etapas da fabricação, as peças da coleção ONE foram criadas para proporcionar o melhor desempenho em sua performance. Produto 85% Poliéster 15% Elastano.",
+        img: "https://leggingbrasil.vteximg.com.br/arquivos/ids/157008-500-750/LBR-2408-010.jpg?v=637655933723970000"
+    },
+    {
+        id: 2,
+        title: "Calça Legging Estampa Digital Tie Dye Rosa e Verde",
+        price: 49.90,
+        desc: "A Legging Tie Dye Rosa e Verde é uma das peças chave da nova coleção ONE, possuí qualidade premium com muita tecnologia, flexibilidade, alta compressão, costura reforçada e cós alto. Essa é a peça ideal para fazer parte da sua rotina de exercícios nas 4 estações do ano. O tecido inteligente da coleção ONE foi desenvolvido pela Legging Brasil para que a compressão, leveza, toque, maciez e transpiração formem um conjunto essencial na hora da perfomance de seus treinos. A coleção ONE trás desenhos criados totalmente exclusivos desenhados para valorizar as curvas no corpo das mulheres. Para quem é o produto? A coleção ONE trouxe a tendência do fashion fitness, para que a sua Legging Brasil possa te acompanhar sempre que precisar, seja, no trabalho, nas saidinhas, na academia, no parque, na zumba, no pilates, nas caminhadas, corridas e pedais. Nossa legging é sua parceira para encarar qualquer desafio; Alta compressão, costura reforçada, tecido super leve e fibras compactas alinhadas a uma modelagem bem desenvolvida, fazem com que nossas Leggings vistam bem no corpo dando uma segurança especial. Desenvolvida com tecnologia em todas as etapas da fabricação, as peças da coleção ONE foram criadas para proporcionar o melhor desempenho em sua performance. Produto 85% Poliéster 15% Elastano.",
+        img: "https://leggingbrasil.vteximg.com.br/arquivos/ids/157125-500-750/TPD_9495.jpg?v=637656666454500000"  
+    }]
+
+    export default DATA;
